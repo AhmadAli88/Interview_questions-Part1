@@ -1,0 +1,36 @@
+Interview Questions 
+1-Tell me abt yourself?
+2-Difference b/w HTML and HTML5 ( new features in HTML5)
+3-What is Box model?
+4-Difference b/w id and class and which has more priority?
+5- Difference b/w var, let and const
+6-Media query in CSS and what it does?
+7- Difference b/w margin and padding?
+8- What is callback function and when it use?
+9- What is promises?
+10-What is event loop?
+11- CSS pre processor?
+12-What is AJAX?
+13- Tell some git command
+14-Difference b/w null and undefined
+15-Tell some new features in ES6
+16-Difference between Arrow and normal functions
+17-Dose Arrow functions get hoisted? No
+18-What is closer?
+19-What is “This” key word in JS?
+20- What is react JS and its use?
+21-What is JSX?
+22-Does our browser directly understand JSX?
+23- What is webpack?
+24- Life cycle method in React JS?
+25- What is ref?
+26- Controlled and uncontrolled component ?
+27- Higher order functions
+28- Explain map, filter and reduce?
+29- Difference b/w state and prop in react JS
+30- What is router in react?
+31- Server side rendering
+32- How to optimise the performance of a web application?
+33- flex box and what it does?
+34- Difference between real and virtual dom?
+
