@@ -1,0 +1,29 @@
+1. UseMemo vs React.Memo
+2. If we have 3 to 4 API calls on a single page that take time to load, what is the best approach for optimization?
+3. diffrenece between redux and react redux
+4. react lifecycle methods
+5. what is pure component
+6. difference between state and props
+7. what is prop drilling
+8. what is redux 
+9. what is reduxthunk (it give us dispatch and getstate method)
+10. what is reducer 
+11. what is usecontext
+12. react virtual dom (diffing and reconciliation) 
+13. what is higher order component
+14. useffect hook
+15. difference between statefull and stateless component
+16. Does refreshing the page remove data from Redux, or not?
+17. what is the use of redux store
+18. useref hook
+19. Why do we use state instead of variables for storing data?
+20. benefits of react
+21. why we do not use usecontext instead of redux
+22. why we use useselector and dispatch
+23. client component to server component
+24. how to stop child component from rendering when parent render
+25. difference between axios and rtk query
+26. how to caching response and then use  
+27. when two state updated on a single button click how many time component render
+28. when we use settimout in a component then navigate
+29. when next take a time in a response then what we can do

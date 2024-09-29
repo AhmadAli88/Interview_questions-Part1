@@ -1,0 +1,60 @@
+What is the output of these questions?
+ Question 1
+  test()
+  console.log("a")
+  function test(){
+       console.log("b")
+  }
+ setTimeout(()=>console.log("c"),0)
+  Promise.resolve(0)
+.then((x)=> console.log("d"))
+ console.log("e")
+ 
+  Question 2
+(function() {
+    var a=b=5;
+})();
+console.log(b)
+ 
+  Question 3
+Promise.resolve(0)
+.then((x)=>x+1)
+.then((x)=>x+2)
+.then((x)=>{})
+.then((x)=>x+3)
+.then((x)=>console.log(x))
+.catch((error)=>error)
+
+ Question 4
+ const x ={
+      Y:1,
+      z:2,
+      a:{
+          f:2
+      }
+  }
+   x.z=3
+   x.a.f=4
+  console.log(x.z)
+  console.log(x.a.f)
+  
+  
+  Question 5
+  const x ={
+     y:1,
+     z(){
+         console.log(this.y)
+     }
+ }
+  const {z}=x
+ x.z()
+  z()
+  
+   Question 6
+   for (var i =5; i<0; i--){
+       setTimeout(()=>console.log(i),i)
+   }
+    for (let i =5; i<0; i--){
+       setTimeout(()=>console.log(i),i)
+   }
+

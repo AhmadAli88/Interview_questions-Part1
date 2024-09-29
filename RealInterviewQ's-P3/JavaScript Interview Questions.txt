@@ -1,0 +1,38 @@
+JavaScript Interview Questions
+1.  DataTypes Primitive and Non Primitive (all data types primitive which is not changeable for example 
+byte , short , int , long , float , double , boolean and char and non primitive called reference type which is mutable)
+2.  Coercion (Explicit,Implicit) And Type Conversion (Type conversion is done implicitly by JavaScript ("15" * 2 ).
+ Explicit Coercion: Type conversion is done explicitly in code using the inbuilt functions like Number(), String(), Boolean(), etc. Number("1")
+3.  Currying (a process in functional programming in which you can transform a function with multiple arguments into a sequence 
+of nesting functions.) 
+4.  Clousers (a form of lexical scoping used to preserve variables from the outer scope of a function in the inner scope of a function)
+5.  Call Stack, event Loop, Web API Callback Queue
+6.  Events in JavaScript
+7.  Functions (Anonymous,IIFE (Immediately Invoked Function Expression),Arrow, Call, Bind, Appply Methods
+8.  recursive Function (A function that calls itself is called a recursive function.) 
+9.  Variable Scope (Var,Let,Const)
+10. Hoisting Variables
+11. Shadowing Variables (shado of global or function variable)
+12. Spread Operator vs Rest Operator
+13. Deep Copy (not change the original value ) and Shallow Copy (change the original value)
+14. Debounce vs Throttling
+15. Tree and Grapgh (linear search and non linear search)
+16. differnece between cookies =>client and server side access we can add expire time and have 4 kb memory  and localstorage need to remove delete and have 5mb memory or sessionstorage remove after tab change and have 5mb memory
+17. error boundaries
+18. execuation context 
+19. temporal dead zone
+20. promises
+   1. Retrieving Data from Promise: then() & catch()
+   2. Methods of Promise: .all(), .any()=> return first resolved , .finally(), .race()=>return first even resolved or rejected
+   3. difference between any and race method
+21. token in localstorage access and refresh token
+22. dom (what is document in dom)
+23. arrow function and simple function (this context)
+24. Syncronus and Asyncronus
+25. setTimeOut vs setTimeInterval
+26. prototype and generator
+27. what is higher order function
+28. in clouser child variables accessible in parent or not
+29. which is hoisting
+
+
